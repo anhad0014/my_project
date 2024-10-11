@@ -1,3 +1,9 @@
 some text in file a
 some more text
+<<<<<<< HEAD
 A change made locally
+=======
+A change made in the remote
+>>>>>>> 83a8793016c50d820354da6bd0130fee8ee3fc90
+
+Conflict noted. No action taken (except ofc, this line right here)
